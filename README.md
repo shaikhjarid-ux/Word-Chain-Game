@@ -1,7 +1,7 @@
 [github_readme.md](https://github.com/user-attachments/files/34223034/github_readme.md)
 # Word Chain 🎮
 
-A simple, fast-paced word chain game built with HTML, CSS, and JavaScript. The goal is easy: type a word that starts with the last letter of the previous word before the clock runs out!
+A simple, fast-paced word chain game built fully with HTML. The goal is easy: type a word that starts with the last letter of the previous word before the clock runs out!
 
 ---
 
@@ -19,7 +19,7 @@ A simple, fast-paced word chain game built with HTML, CSS, and JavaScript. The g
 
 * **Word Validation:** Words are checked against an open-source English dictionary list. Obscure words might occasionally not be recognized.
 * **Browser Storage:** Your high scores and preferences are saved locally in your browser. Clearing your browser data will reset your stats.
-* **Fair Play:** The game is meant for quick brain practice—no botting allowed!
+* **Fair Play:** The game is meant for quick brain practice to play solo or with friends , don't ruin the fun by cheating!
 
 ---
 
